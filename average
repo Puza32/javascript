@@ -1,0 +1,11 @@
+var bangla = 75;
+var english = 25;
+var math= 65;
+var phy = 80;
+var biology = 35;
+var social_science = 45;
+var releginus = 99;
+var phy_science = 50;
+var total = (bangla+english+math+phy+biology+social_science+releginus+phy_science);
+console.log(total/8);
+ 
