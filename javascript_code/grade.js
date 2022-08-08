@@ -4,12 +4,12 @@
 // var jane = 95;
 // var peter = 56;
 // var jhon = 40 ;
-var score =30;
-var score= 50;
-var score= 70;
-var score= 60;
+var score= 65;
 
-if (score >= 80){
+if (score >= 90){
+    console.log("The grade is A");
+}
+else if (score >= 80){
     console.log("The grade is A");
 }
 else if(score>=70){
